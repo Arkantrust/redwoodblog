@@ -1,4 +1,6 @@
-# README
+# RedwoodJS Tutorial
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/67020c8f-7c02-457a-bed6-4dc1f747f802/deploy-status)](https://app.netlify.com/sites/arkanblog/deploys)
 
 Welcome to [RedwoodJS](https://redwoodjs.com)!
 
